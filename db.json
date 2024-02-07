@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "fruits": [
+    {
+      "id": 1,
+      "name": "kawaki",
+      "price": 2000,
+      "quantity": 50
+    },
+    {
+      "id": 3,
+      "name": "pomme",
+      "price": 4500,
+      "quantity": 50
+    }
+  ],
+  "categorys": [
+    {
+      "id": 2,
+      "name": "smid",
+      "description": "100"
+    },
+    {
+      "id": 3,
+      "name": "pomme",
+      "description": "zrv"
+    },
+    {
+      "id": 4,
+      "name": "dqs",
+      "description": "mlk"
+    }
+  ]
+}
